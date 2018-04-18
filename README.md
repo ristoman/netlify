@@ -18,9 +18,7 @@ Assets, templates and content for mockups and designs.
 Step-by-step breakdowns of how to go from point A to point B.
 
 ### General Concepts
-- [TALK] [Design Thinking](http://azulseven.com/journal_entries/design-thinking-and-agile-development-integration/)
-- [Lean UX](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/) - A Manifesto
-- [Playbook](https://askplaybook.com/) - Actionable Career Advice
+
 
 ### Creativity, Ideation and Innovation
 - [Essential Ideation Techniques](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)

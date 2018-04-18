@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Product Resources</title>
+    <link>//wonderful-austin-36bdcd.netlify.com/tags/</link>
+    <description>Recent content in Tags on Product Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 18:17:56 -0700</lastBuildDate>
+    
+	<atom:link href="//wonderful-austin-36bdcd.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/article/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/demo/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/example/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/first/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:52 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/post/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/tag1/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>//wonderful-austin-36bdcd.netlify.com/tags/tag2/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>//wonderful-austin-36bdcd.netlify.com/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
