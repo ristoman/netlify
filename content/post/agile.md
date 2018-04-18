@@ -1,7 +1,7 @@
 ---
 title: "Agile"
 date: 2018-04-17T10:28:46+02:00
-draft: true
+draft: false
 description: "Deliver the most value with the least amount of effort"
 author: "Andrea"
 categories: ["Agile"]

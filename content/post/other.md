@@ -1,7 +1,7 @@
 ---
 title: "Other"
 date: 2018-04-17T10:27:10+02:00
-draft: true
+draft: false
 description: "Whatever doesn't belong anywhere else"
 ---
 Whatever doesn't belong anywhere else
