@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/creativity/</loc>
+    <loc>//wonderful-austin-36bdcd.netlify.com/2018/04/creativity/</loc>
     <lastmod>2018-04-17T10:30:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/tools/</loc>
+    <loc>//wonderful-austin-36bdcd.netlify.com/2018/04/tools/</loc>
     <lastmod>2018-04-17T10:30:02+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/agile/</loc>
+    <loc>//wonderful-austin-36bdcd.netlify.com/2018/04/agile/</loc>
     <lastmod>2018-04-17T10:28:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/ux/</loc>
+    <loc>//wonderful-austin-36bdcd.netlify.com/2018/04/other/</loc>
+    <lastmod>2018-04-17T10:27:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//wonderful-austin-36bdcd.netlify.com/2018/04/ux-and-research/</loc>
     <lastmod>2018-04-17T10:27:10+02:00</lastmod>
   </url>
   
@@ -33,53 +38,32 @@
   </url>
   
   <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/2016/03/my-second-post/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/2016/03/my-first-post/</loc>
-    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
+    <loc>//wonderful-austin-36bdcd.netlify.com/categories/agile/</loc>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/tags/article/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/categories/</loc>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/tags/demo/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/tags/example/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/tags/first/</loc>
-    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/categories/flat/</loc>
-    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/categories/hugo/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,13 +75,13 @@
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/tags/post/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/post/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:30:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,13 +105,7 @@
   
   <url>
     <loc>//wonderful-austin-36bdcd.netlify.com/tags/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//wonderful-austin-36bdcd.netlify.com/categories/theme/</loc>
-    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <lastmod>2018-04-17T10:28:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
