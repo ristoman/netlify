@@ -17,4 +17,4 @@ Deliver the most value with the least amount of effort.
 - [Vertical Slices](http://agileforall.com/vertical-slices-and-scale/)
 - [Innovation accounting](https://www.ideou.com/blogs/inspiration/innovation-accounting-what-it-is-and-how-to-get-started) - IDEO
 - [Agile Transformation](https://www.solutionsiq.com/resource/blog-post/leading-agile-change-proven-change-models-for-agile-transformation/)
-- [Fun Retro](https://funretro.github.io/distributed/)
+- [Agile Design: Intentional yet Emergent](https://www.mountaingoatsoftware.com/blog/agile-design-intentional-yet-emergent)

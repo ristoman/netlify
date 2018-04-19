@@ -9,6 +9,7 @@ Having lots of ideas, having lots of _good_ ideas, sorting lots of ideas.
 
 
 - [Essential Ideation Techniques](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
+- [TALK] [Design Thinking](http://azulseven.com/journal_entries/design-thinking-and-agile-development-integration/)
 - [Collaborative Design](https://blog.marvelapp.com/designers-developers-collaborative-design-process-innovation/)
 - [Creative Something](http://creativesomething.net/)
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
