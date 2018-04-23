@@ -19,3 +19,4 @@ Whatever doesn't belong anywhere else
 - [Neon Moiré](https://www.neonmoire.com/event) - Curated list of articles from design conferences
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [7 ways to work smarter, backed by science](https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6)
+- [Silicon Valley Product Group Blog](https://svpg.com/articles/)

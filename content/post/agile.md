@@ -18,3 +18,4 @@ Deliver the most value with the least amount of effort.
 - [Innovation accounting](https://www.ideou.com/blogs/inspiration/innovation-accounting-what-it-is-and-how-to-get-started) - IDEO
 - [Agile Transformation](https://www.solutionsiq.com/resource/blog-post/leading-agile-change-proven-change-models-for-agile-transformation/)
 - [Agile Design: Intentional yet Emergent](https://www.mountaingoatsoftware.com/blog/agile-design-intentional-yet-emergent)
+- [5 Trademarks of Agile Organizations](https://www.mckinsey.com/business-functions/organization/our-insights/the-five-trademarks-of-agile-organizations)

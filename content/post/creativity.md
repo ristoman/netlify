@@ -14,6 +14,7 @@ Having lots of ideas, having lots of _good_ ideas, sorting lots of ideas.
 - [Creative Something](http://creativesomething.net/)
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
+- [Start with a concept](https://uxdesign.cc/start-your-designs-with-a-concept-7270e6b00fcc)
 
 ## Inspiration
 
