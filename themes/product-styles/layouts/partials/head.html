@@ -22,9 +22,10 @@
     {{ end }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlightjs-themes/androidstudio.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/phlat.css" />
+    <!--link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlightjs-themes/androidstudio.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" /-->
+
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
         {{ with .Site.Params.google_adsense }}
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
