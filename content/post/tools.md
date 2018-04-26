@@ -19,3 +19,4 @@ Some helpful resources to get you there.
 - [Fun Retro](https://funretro.github.io/distributed/)
 - [Lean UX](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/) - A Manifesto
 - [Playbook](https://askplaybook.com/) - Actionable Career Advice
+- [Awesome Design](https://github.com/gztchan/awesome-design)
