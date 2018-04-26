@@ -1,7 +1,7 @@
 baseURL = "//wonderful-austin-36bdcd.netlify.com/"
 languageCode = "en-us"
 title = "Product Resources"
-theme = "pds"
+theme = "product-styles"
 
 [permalinks]
     post = "/:year/:month/:slug/"
