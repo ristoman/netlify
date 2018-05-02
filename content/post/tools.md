@@ -21,3 +21,5 @@ Some helpful resources to get you there.
 - [Playbook](https://askplaybook.com/) - Actionable Career Advice
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 - [Sketch React](https://design-nation.icons8.com/sketching-a-design-system-with-react-sketchapp-43e24993c8f2)
+- [Design Intelligence](https://airbnb.design/the-evolution-of-tools/) | Airbnb
+- [Archetype](https://archetypeapp.com/#) | Create typography and Style Sheets

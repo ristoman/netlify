@@ -15,6 +15,7 @@ Having lots of ideas, having lots of _good_ ideas, sorting lots of ideas.
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 - [Start with a concept](https://uxdesign.cc/start-your-designs-with-a-concept-7270e6b00fcc)
+- [Innovation in the Enterprise Mindset](https://medium.com/@jaf_designer/how-to-develop-an-innovators-mindset-in-the-established-enterprise-90ec685c7aa1)
 
 ## Inspiration
 

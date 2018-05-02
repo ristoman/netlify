@@ -20,3 +20,5 @@ Whatever doesn't belong anywhere else
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [7 ways to work smarter, backed by science](https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6)
 - [Silicon Valley Product Group Blog](https://svpg.com/articles/)
+- [Finding The Exhaust Ports - Jon Gold](https://jon.gold/2018/02/exhaust-ports/)
+- [Next Nature Network](https://www.nextnature.net/welcome/) - The future of nature and technology
