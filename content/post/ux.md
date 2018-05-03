@@ -20,3 +20,4 @@ Craft meets science in building better products.
 - [Why Prototyping is a must](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
 - [NPS is a misleading metric](https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430)
 - [Multivariate Testing](https://www.nngroup.com/articles/multivariate-testing/)
+- [More efficient Forms](https://uxplanet.org/designing-more-efficient-forms-structure-inputs-labels-and-actions-e3a47007114f)

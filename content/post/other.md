@@ -22,3 +22,5 @@ Whatever doesn't belong anywhere else
 - [Silicon Valley Product Group Blog](https://svpg.com/articles/)
 - [Finding The Exhaust Ports - Jon Gold](https://jon.gold/2018/02/exhaust-ports/)
 - [Next Nature Network](https://www.nextnature.net/welcome/) - The future of nature and technology
+- [font-display CSS Property](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) - Tells the browser what to do while loading custom fonts
+- [CSS for dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
